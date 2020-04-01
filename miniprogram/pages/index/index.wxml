@@ -1,4 +1,7 @@
 <!--index.wxml-->
+<view class = "amount-box" >
+ 
+</view>
 <view class="container">
 
   <!-- 用户 openid -->
