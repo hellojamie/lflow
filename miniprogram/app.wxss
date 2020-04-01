@@ -154,9 +154,3 @@ page {
   line-height: 36rpx;
   word-break: break-all;
 }
-
-.amount-box {
-  width:100%;
-  height:400rpx;
-  background:url("https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1112711476,1659472779&fm=15&gp=0.jpg");
-}

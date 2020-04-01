@@ -1,7 +1,9 @@
 /**index.wxss**/
 
 page {
-  background: #f6f6f6;
+  height:100%;
+  width:100%;
+  background:url("https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1112711476,1659472779&fm=15&gp=0.jpg");
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
